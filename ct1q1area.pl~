@@ -1,0 +1,5 @@
+circlearea :- read(R), A is 3.14 * R * R, write(A).
+trianglearea :- read(H), read(W), A is H * W, write(A).
+arearectangle :- read(B), read(H), A is 1/2 * B * H, write(A).
+areacube :- read(S), A is S * S, write(A).
+

@@ -1,0 +1,2 @@
+circle :- read(R), A is R * R * 3.1416, write(A).
+triangle :- read(B), read(H), A is B * H / 2, write(A).
